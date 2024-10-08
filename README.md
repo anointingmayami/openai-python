@@ -21,6 +21,16 @@ The REST API documentation can be found on [platform.openai.com](https://platfor
 # install from PyPI
 pip install openai
 ```
+## Quick Start
+# Run this code to test your env setup to see everything works fine.
+Run [editor.py]{editor.py}.
+
+*Note: OpenAI basically no longer offers a Free Tier.*  
+*Any use of the API requires the addition of a minimum of $5.*  
+*There might just be a small system lag regarding the “visible” update of your tier under the above link.*
+*I hope this helps.*  
+*Learn more: [https://community.openai.com/t/usage-tier-free-to-tier-1/919150](https://community.openai.com/t/usage-tier-free-to-tier-1/919150)*
+
 
 ## Usage
 
